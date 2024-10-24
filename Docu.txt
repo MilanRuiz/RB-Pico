@@ -1,0 +1,7 @@
+Idee:
+
+Timeline:
+
+24.10.
+RB Pico doesn't show up in the explorer - different cable that allows for data transfer
+Board Layout is different from standart Pico - LED is accessed through Pin("LED",...
